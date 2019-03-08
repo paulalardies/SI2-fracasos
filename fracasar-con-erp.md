@@ -47,7 +47,8 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **SAP y AeroGroup/Aerosoles**: [AeroGroup abandona  AFS y R/3](http://www.academia.edu/15433352/Tarea_Caso_de_estudio_a_desarrollar_Aerogroup_International) (Fuente: Hector Herrmann)
 - **SAP y Unisource Worldwide Inc. (EE.UU)**: [SAP installation scuttled. (Unisource Worldwide abandons nationwide implementation of SAP enterprise software) (Company Operations)](https://business.highbeam.com/137376/article-1G1-20210791/sap-installation-scuttled) (Fuente: Héctor Martínez Moreno)
 - **Movex y Beijing Dabao Cosmetics Co. (China)**: [Case study on failed implementation of ERP systems](http://www.academia.edu/28508065/CASE_STUDY_ON_FAILED_IMPLEMENTATION_OF_ERP_SYSTEMS) (Fuente: Jorge Blázquez Hernández
-- **PeopleSoft (Indiana)**: [Problemas al remplazar los sistemas internos de la empresa] (https://www.erpfocus.com/erp-failure-case-studies.html) (Fuente: Paula Lardiés)
+- **PeopleSoft (Indiana)**: [Problemas al remplazar los sistemas internos de la empresa] (https://www.erpfocus.com/erp-failure-case-studies.html) (Fuente: Paula Lardiés
+
 ## 1999
 
 - **SAP y [Hershey's](http://www.hersheys.com/)**: [A Case Study on Hershey's ERP implementation failure: the importance of Testing and Scheduling](http://www.pemeco.com/wp-content/uploads/2013/09/Hershey_ERP_Case_Study.pdf) (Fuente: Andrés Julián)
